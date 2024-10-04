@@ -9,12 +9,12 @@ const name = "David"; // ✅ Good!
 const lastname = "Bruno"; // ❌ the keyword to declare the variable is missing 
 
 
-let DavidsBiography = "Hi, I'm David Bruno from SF, I like to cook and meet new people."; // ❌ the variable name is not explicit. (this is David's biography)
+let davidsBiography = "Hi, I'm David Bruno from SF, I like to cook and meet new people."; // ❌ the variable name is not explicit. (this is David's biography)
 
 
-const DavidsProfilePicture = "http://www.go.com/davif.png"; // ❌ the variable name is not explicit and the keyword is missing (this is David's profile picture)
+const davidsProfilePicture = "http://www.go.com/davif.png"; // ❌ the variable name is not explicit and the keyword is missing (this is David's profile picture)
 
-let DavidsHome = "San Francisco"; // ❌ the variable name is not explicit and the keyword is missing (try to guess what "San Francisco" could refer to)
+let davidsHome = "San Francisco"; // ❌ the variable name is not explicit and the keyword is missing (try to guess what "San Francisco" could refer to)
 
 let followers = 109; // ❌ the keyword to declare the variable is missing 
 let following = 200; // ❌ the keyword to declare the variable is missing 
